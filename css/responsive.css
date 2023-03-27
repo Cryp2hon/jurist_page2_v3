@@ -126,7 +126,7 @@
   }
   .main {
     padding-top: 25px;
-    background-size: cover;
+    background-size: 300%;
     background-position: top center;
   }
   .main_righttext {
